@@ -3,7 +3,7 @@
 
 # 📗 Table of Contents
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails Backend ](#-hello-rails-backend-)
+- [📖 Hello React Frontend ](#-hello-react-frontend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails Backend <a name="about-the-project"></a>
+# 📖 Hello React Frontend <a name="about-the-project"></a>
 **Hello React Frontend** is an implemention of a connection between Ruby on Rails back-end and React front-end. [Hello Rails Backend](https://github.com/KanzaTahreem/Hello-Rails-Backend) handles the backend API, and [Hello React Frontend](https://github.com/KanzaTahreem/Hello-React-Frontend) handles the frontend UI to display a random greeting message.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -69,6 +69,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+
 - [API](https://github.com/KanzaTahreem/Hello-Rails-Backend)
 - [git](https://git-scm.com/)
 - [node.js](https://nodejs.org/en/)
